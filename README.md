@@ -1,6 +1,8 @@
 # franz-instagram
 Very basic Franz Recipe for Instagram
 
+NO DIRECT MESSAGING AVAILABLE YET..
+
 # Installation
 Open the recipe folder of Franz
 
