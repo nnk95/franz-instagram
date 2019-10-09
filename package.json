@@ -1,0 +1,14 @@
+{
+  "id": "instagram",
+  "name": "Instagram",
+  "version": "0.0.1",
+  "description": "Instagram",
+  "main": "index.js",
+  "author": "Jazereel Goh <jason.teo@live.com.sg>",
+  "repository": "",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.instagram.com",
+    "hasNotificationSound": true
+  }
+}
