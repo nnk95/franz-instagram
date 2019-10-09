@@ -5,7 +5,7 @@
   "description": "Instagram",
   "main": "index.js",
   "author": "Jazereel Goh <jason.teo@live.com.sg>",
-  "repository": "",
+  "repository": "https://github.com/nnk95/franz-instagram",
   "license": "MIT",
   "config": {
     "serviceURL": "https://www.instagram.com",
