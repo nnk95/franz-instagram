@@ -1,7 +1,7 @@
 {
   "id": "instagram",
   "name": "Instagram",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Instagram",
   "main": "index.js",
   "author": "Jazereel Goh <jason.teo@live.com.sg>",
