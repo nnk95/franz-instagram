@@ -1,7 +1,7 @@
 # franz-instagram
 Very basic Franz Recipe for Instagram
 
-NO DIRECT MESSAGING AVAILABLE YET..
+A pretty dirty hack regarding useragents have enabled DIRECT MESSAGING for now, using Apple's iPhone code.
 
 # Installation
 Open the recipe folder of Franz
