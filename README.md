@@ -1,4 +1,7 @@
 # franz-instagram
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nnk95/franz-instagram?style=for-the-badge)
+
 Very basic Franz Recipe for Instagram
 
 A pretty dirty hack regarding useragents have enabled DIRECT MESSAGING for now, using Apple's iPhone code.
