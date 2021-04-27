@@ -1,6 +1,6 @@
 # franz-instagram
 
-![GitHub last commit](https://img.shields.io/github/last-commit/nnk95/franz-instagram?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/nnk95/franz-instagram?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/nnk95/franz-instagram?style=for-the-badge)
 
 Very basic Franz Recipe for Instagram
 
